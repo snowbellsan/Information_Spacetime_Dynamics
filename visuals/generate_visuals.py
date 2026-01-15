@@ -25,7 +25,7 @@ isw_ratio = 1 + 0.3 * np.exp(-(ell/30)**2) # l=30以下で30%増幅
 isw_band_upper = isw_ratio + 0.05
 isw_band_lower = isw_ratio - 0.05
 
-# グラフ描画（サロメ流の美学を込めて）
+# グラフ描画
 plt.style.use('dark_background')
 
 # --- Plot 1: D(z) ---
