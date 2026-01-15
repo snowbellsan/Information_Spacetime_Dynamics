@@ -25,3 +25,7 @@ Our primary prediction: A **25–35% enhancement** in the ISW effect at large an
 These plots are generated via the provided `generate_visuals.py` script. We invite researchers to tweak the coarse-graining parameters to see how the informational "metabolism" changes the cosmic expansion.
 
 **"The evidence is already written in the CMB and the Galaxy distribution. We are simply providing the eyes to see it."**
+
+
+These plots are not precision fits, but structural predictions illustrating
+when and where deviations from ΛCDM must occur if the theory is correct.
