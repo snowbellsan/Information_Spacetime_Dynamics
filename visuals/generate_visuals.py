@@ -61,4 +61,4 @@ for label, params in scenarios.items():
     axes[2].invert_xaxis()
 
 plt.tight_layout()
-plt.savefig('visuals/v2_1_destiny_engine.png')
+plt.savefig('v2_1_destiny_engine.png')
