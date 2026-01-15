@@ -1,3 +1,6 @@
+# This is a phenomenological toy model illustrating how informational divergence
+# may induce late-time cosmic acceleration and ISW enhancement.
+
 import numpy as np
 import matplotlib.pyplot as plt
 
