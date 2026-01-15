@@ -9,7 +9,7 @@ This repository presents a novel theoretical framework that derives cosmic accel
 
 Overview
 
-documents/Universal_Destiny_Whitepaper_v2_3.pdf
+[documents/Universal_Destiny_Whitepaper_v2_3.pdf](https://github.com/snowbellsan/Information_Spacetime_Dynamics/blob/main/doccument/Universal_Destiny_Whitepaper_v2_3.pdf)
 
 
 The $\Lambda$CDM model accurately describes cosmic expansion but leaves the "why now?" of late-time acceleration unexplained3. We propose that acceleration is not driven by a new energy component (Dark Energy), but by spacetime responding to the irreversible flow and compression of quantum information.
