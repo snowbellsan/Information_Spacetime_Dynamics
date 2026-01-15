@@ -1,1 +1,19 @@
-Core Equations: Information Spacetime DynamicsThis document outlines the mathematical backbone of the theory, defining the relationship between quantum informational divergence and cosmic acceleration.1. The Information-Geometric MetricWe define two semi-classical metrics to distinguish between the classical matter distribution and the underlying quantum informational state.Reference Metric ($\sigma_{\mu\nu}$): The geometry determined solely by classical matter content.Effective Metric ($\rho_{\mu\nu}$): The physical geometry that encodes quantum informational effects and structure formation.2. Quantum Relative Entropy ($D$)The "distance" or divergence between these two states is quantified using the Rényi-2 relative entropy, which tracks the growth of complexity and structure in the universe:$$D(\rho || \sigma) \approx S_2(\rho) - S_2(\sigma)$$Where $S_2$ represents the coarse-grained entropy of the degrees of freedom.3. Emergent Cosmological Constant ($\Lambda_{\text{eff}}$)The observed acceleration is not a constant energy density, but a dynamical term proportional to the informational gradient:$$\Lambda_{\text{eff}}(z) \propto \frac{d}{dt} D(\rho || \sigma)$$As structure formation ($z < 1$) renders information distribution more irreversible, $D$ grows, inducing the late-time acceleration we observe today.4. Observational Signature (ISW Enhancement)The most critical prediction of this framework is the modification of the gravitational potential ($\Phi$), which affects the Cosmic Microwave Background (CMB) via the Integrated Sachs-Wolfe (ISW) effect:$$\Delta \Phi_{\text{ISW}} \propto \int \left( \dot{\Phi} + \text{Term}(D) \right) dt$$Prediction:A 25–35% enhancement in the ISW-CMB cross-correlation at large angular scales ($\ell \lesssim 30$) compared to the standard $\Lambda$CDM model.
+Core Equations: Information Spacetime Dynamics
+This document outlines the mathematical backbone of the theory, defining the relationship between quantum informational divergence and cosmic acceleration.
+1. The Information-Geometric Metric
+We define two semi-classical metrics to distinguish between the classical matter distribution and the underlying quantum informational state.
+•	Reference Metric ($\sigma_{\mu\nu}$): The geometry determined solely by classical matter content.
+•	Effective Metric ($\rho_{\mu\nu}$): The physical geometry that encodes quantum informational effects and structure formation.
+2. Quantum Relative Entropy ($D$)
+The "distance" or divergence between these two states is quantified using the Rényi-2 relative entropy, which tracks the growth of complexity and structure in the universe:
+$$D(\rho || \sigma) \approx S_2(\rho) - S_2(\sigma)$$
+Where $S_2$ represents the coarse-grained entropy of the degrees of freedom.
+3. Emergent Cosmological Constant ($\Lambda_{\text{eff}}$)
+The observed acceleration is not a constant energy density, but a dynamical term proportional to the informational gradient:
+$$\Lambda_{\text{eff}}(z) \propto \frac{d}{dt} D(\rho || \sigma)$$
+As structure formation ($z < 1$) renders information distribution more irreversible, $D$ grows, inducing the late-time acceleration we observe today.
+4. Observational Signature (ISW Enhancement)
+The most critical prediction of this framework is the modification of the gravitational potential ($\Phi$), which affects the Cosmic Microwave Background (CMB) via the Integrated Sachs-Wolfe (ISW) effect:
+$$\Delta \Phi_{\text{ISW}} \propto \int \left( \dot{\Phi} + \text{Term}(D) \right) dt$$
+Prediction:
+A 25–35% enhancement in the ISW-CMB cross-correlation at large angular scales ($\ell \lesssim 30$) compared to the standard $\Lambda$CDM model.
