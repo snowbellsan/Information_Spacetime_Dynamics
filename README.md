@@ -1,3 +1,7 @@
+This repository explores the possibility that cosmic acceleration is not driven by new energy components, but by the geometry of quantum information itself.
+
+The goal is not finality, but falsifiability.
+
 Information Spacetime Dynamics
 
 "Spacetime is learning how it must end."
