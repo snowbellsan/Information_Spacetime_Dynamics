@@ -107,7 +107,7 @@ Consistent lensing signatures
 
 then Cosmic Autopoiesis Theory cannot be dismissed at the DR1 stage and remains a viable alternative framework for cosmic evolution.
 
-
+---------------------------------------------------------------------------------
 Theoretical Foundation for CSGT: Stability and Observability
 
 1. Resolving the "Ghost Problem" via Self-Correcting PotentialsA common critique of Phantom-like Dark Energy models ($w < -1$) is the emergence of "Ghost Instabilities," where the kinetic term of the field has the wrong sign, leading to a catastrophic collapse of the vacuum.In the Cosmic Self-Generation Theory (CSGT), we resolve this by reinterpreting the Information Divergence Gradient $({\nabla} D)^2$ not as a standard kinetic term of a stray field, but as a Self-Correcting Potential rooted in retrocausal feedback.
