@@ -17,6 +17,7 @@ Overview
 Toy model result
 ![Level 1](toy%20model/simulation%20result.png)
 ![Level 2](toy%20model/DESI%20DR1%20Fitting%20result.png)
+![Level 2](toy%20model/test02.png).
 
 
 The $\Lambda$CDM model accurately describes cosmic expansion but leaves the "why now?" of late-time acceleration unexplained3. We propose that acceleration is not driven by a new energy component (Dark Energy), but by spacetime responding to the irreversible flow and compression of quantum information.
