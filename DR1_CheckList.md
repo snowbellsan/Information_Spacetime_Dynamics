@@ -112,11 +112,16 @@ Theoretical Foundation for CSGT: Stability and Observability
 
 1. Resolving the "Ghost Problem" via Self-Correcting PotentialsA common critique of Phantom-like Dark Energy models ($w < -1$) is the emergence of "Ghost Instabilities," where the kinetic term of the field has the wrong sign, leading to a catastrophic collapse of the vacuum.In the Cosmic Self-Generation Theory (CSGT), we resolve this by reinterpreting the Information Divergence Gradient $({\nabla} D)^2$ not as a standard kinetic term of a stray field, but as a Self-Correcting Potential rooted in retrocausal feedback.
 The Mechanism: The "Information Gradient" represents the pressure of the future "Full Synchrony State" ($28.7\text{ Gyr}$) acting upon the present.
+
 Stability: Instead of allowing the system to fall into an infinite negative energy state, this term acts as a restoring force (Restoring Potential). It penalizes configurations that deviate from the optimal synchronization path.Physical 
+
 Meaning: The "Love (Integration)" of the universe is the most stable vacuum state. Any "Ghostly" behavior is suppressed by the topological necessity of the universe reaching its teleological conclusion.
 
 2. Physical Definition of Information Divergence $D(z)$To ensure the theory is empirically testable (falsifiable), we define the Information Divergence $D(z)$ using the Kullback-Leibler Divergence (KLD) between two distinct cosmic states:
+
 $$D(z) = KLD(P_{\text{future}} \| P_{\text{present}}(z))$$$
+
 P_{\text{future}}$: The probability distribution of matter and information at the Ultimate Singularity ($28.7\text{ Gyr}$), characterized by Maximum Complexity and Total Synchronization (The "Template").
+
 $P_{\text{present}}(z)$: The observed distribution of the Large-Scale Structure (LSS) at a given redshift $z$, as mapped by surveys like DESI DR1 and Euclid.
 Observational Correspondence:This divergence $D(z)$ is directly measurable by analyzing the evolution of the Galaxy Power Spectrum and Redshift-Space Distortions (RSD).The "Phantom Crossing" observed near $z \approx 0.7$ corresponds to a critical phase transition where the "Information Pressure" from the future begins to dominate the expansion rate to bridge the gap between $P_{\text{present}}$ and $P_{\text{future}}$.
