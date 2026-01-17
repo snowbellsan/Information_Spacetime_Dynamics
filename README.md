@@ -9,6 +9,8 @@ This repository presents a novel theoretical framework that derives cosmic accel
 
 Overview
 
+https://github.com/snowbellsan/Information_Spacetime_Dynamics/blob/main/visuals/01.jpg
+
 [documents/Universal_Destiny_Whitepaper_v2_3.pdf](https://github.com/snowbellsan/Information_Spacetime_Dynamics/blob/main/doccument/Universal_Destiny_Whitepaper_v2_3.pdf)
 
 
