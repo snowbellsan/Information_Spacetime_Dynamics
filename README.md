@@ -15,7 +15,8 @@ https://github.com/snowbellsan/Information_Spacetime_Dynamics/blob/main/visuals/
 [documents/Universal_Destiny_Whitepaper_v2_3.pdf](https://github.com/snowbellsan/Information_Spacetime_Dynamics/blob/main/doccument/Universal_Destiny_Whitepaper_v2_3.pdf)
 
 
-![Level 1](.toy%20model/simulation%20result.png)
+Toy model result
+![Level 1](toy%20model/simulation%20result.png)
 ![Level 2](toy%20model/DESI%20DR1%20Fitting%20result.png)
 
 
