@@ -20,6 +20,8 @@ Overview
 ![Level 2](toy%20model/test02.png).
 ![Level 2](CSGT-Apeiron-Final.png)
 
+https://github.com/snowbellsan/Information_Spacetime_Dynamics/blob/main/Pantheon%2BTest/testG.py
+
 ![Level 2](Pantheon%2BTest/01.png)
 
 The $\Lambda$CDM model accurately describes cosmic expansion but leaves the "why now?" of late-time acceleration unexplained3. We propose that acceleration is not driven by a new energy component (Dark Energy), but by spacetime responding to the irreversible flow and compression of quantum information.
